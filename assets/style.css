@@ -1,0 +1,12 @@
+.menu{
+    background:#5c72b0;
+    color:#fff;
+}
+.menu .col-md-3{
+    padding:10px;
+    font-size:18px;
+}
+.menu .col-md-3 a{
+    font-weight:700;
+    color:#fff!important
+}

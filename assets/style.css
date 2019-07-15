@@ -10,3 +10,8 @@
     font-weight:700;
     color:#fff!important
 }
+
+html *
+{
+    font-family: 'Cabin', sans-serif;
+}
